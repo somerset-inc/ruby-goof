@@ -52,3 +52,4 @@ gem install bundler
 rbenv rehash
 ```
 Don't forget to update your `.bashrc` or `.zshrc` to include `eval "$(rbenv init -)"`
+
